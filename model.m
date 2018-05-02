@@ -1,5 +1,4 @@
 function mymodel = model
-%A<==>B<==>C
 mymodel.nu = [1    -1     0     0     0     0     0     0     0     0     0     0;
               0     0     1    -1    -2     2     0     0     0     0    -1     1;
               0     0     0     0     1    -1     0     0     0     0     0     0;
